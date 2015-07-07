@@ -1,0 +1,4 @@
+<?php
+    class question extends Eloquent{
+        public $table = "question";
+    }
